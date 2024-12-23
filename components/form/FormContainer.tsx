@@ -2,7 +2,6 @@
 
 import { useFormState } from "react-dom";
 import { useEffect } from "react";
-import { useTheme } from "next-themes";
 import { useToast } from "@/hooks/use-toast";
 import { actionFunction } from "@/utils/types";
 

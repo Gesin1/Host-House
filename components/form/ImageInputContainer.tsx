@@ -7,7 +7,6 @@ import ImageInput from "./ImageInput";
 import { SubmitButton } from "./Button";
 import { type actionFunction } from "@/utils/types";
 import { LuUser2 } from "react-icons/lu";
-import { Divide } from "lucide-react";
 
 type ImageInputContainerProps = {
   image: string;
