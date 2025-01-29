@@ -31,9 +31,9 @@
 
 ![Property](public/property.png)
 
-![Rental](public/rentals.png.png)
+![Rental](public/rentals.png)
 
-![Reservation](public/reservation.png.png.png)
+![Reservation](public/reservation.png)
 
 ## 📄 License
 
